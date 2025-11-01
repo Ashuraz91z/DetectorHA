@@ -73,7 +73,3 @@ pyinstaller --onefile --noconsole main.py
 ```
 
 Le .exe sera dans le dossier `dist/`
-
-## 📜 Licence
-
-MIT - Fais-en ce que tu veux !
